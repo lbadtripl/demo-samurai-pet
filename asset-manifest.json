@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demo-samurai-pet/static/css/main.c078050c.css",
+    "main.js": "/demo-samurai-pet/static/js/main.a389dbc0.js",
+    "index.html": "/demo-samurai-pet/index.html",
+    "main.c078050c.css.map": "/demo-samurai-pet/static/css/main.c078050c.css.map",
+    "main.a389dbc0.js.map": "/demo-samurai-pet/static/js/main.a389dbc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c078050c.css",
+    "static/js/main.a389dbc0.js"
+  ]
+}
